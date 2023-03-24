@@ -2,10 +2,10 @@ Name,Departments,salary
 Nikhil,Data Science,10000
 Allen,Full Stack,5000
 Jijo,Data Science,4000
-Abhinav,Front End,4000
-Sajjad,Product Design,3000
-Adharsh,Product Management,20000
-Don,Embedded Systems,10000
-Deepak,Front End,5000
-Navendu,Back End,10000
-Nibin,Automation Testing,2000
+Nikhil,Front End,4000
+Allen,Product Design,3000
+Jijo,Product Management,20000
+Allen,Embedded Systems,10000
+Nikhil,Front End,5000
+Jijo,Back End,10000
+Jijo,Automation Testing,2000
